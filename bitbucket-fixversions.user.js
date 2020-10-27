@@ -2,7 +2,7 @@
 // @name         Fix Versions for Bitbucket Pull Requests
 // @namespace    https://github.com/vadimbelyaev/bitbucket-fixversions 
 // @version      0.1
-// @downloadURL  https://github.com/vadimbelyaev/bitbucket-fixversions/blob/main/bitbucket-fixversions.user.js 
+// @downloadURL  https://github.com/vadimbelyaev/bitbucket-fixversions/raw/main/bitbucket-fixversions.user.js 
 // @supportURL   https://github.com/vadimbelyaev/bitbucket-fixversions/issues
 // @description  Displays fix versions of Jira issues right in the pull request title. The pull request title must contain the Jira issue number(s) and the Bitbucket instance must have the integration with Jira enabled.
 // @author       Vadim Belyaev <vadimbelyaev@gmail.com>
